@@ -1,0 +1,8 @@
+<p>app/views/lists/index.html.erb</p>
+
+<div class="container">
+  <h1>Movie Lists</h1>
+  <% @lists.each do |list|  %>
+    <p><%= link_to list.name, list_path(list)  %></p>
+  <% end %>
+</div>
