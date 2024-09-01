@@ -1,0 +1,50 @@
+=> 
+[[32m#<Bookmark:0x00007f1fd136a068[0m
+  id: [34m[1m1[0m,
+  comment: [31m[1m"[0m[31mcomment great movie[0m[31m[1m"[0m,
+  movie_id: [34m[1m2[0m,
+  list_id: [34m[1m1[0m,
+  created_at: Sun, 01 Sep 2024 13:12:54.297763000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 13:12:54.297763000 UTC +00:00[32m>[0m,
+ [32m#<Bookmark:0x00007f1fd1369fa0[0m
+  id: [34m[1m2[0m,
+  comment: [31m[1m"[0m[31mcomment Fantastic[0m[31m[1m"[0m,
+  movie_id: [34m[1m4[0m,
+  list_id: [34m[1m2[0m,
+  created_at: Sun, 01 Sep 2024 13:12:54.308694000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 13:12:54.308694000 UTC +00:00[32m>[0m,
+ [32m#<Bookmark:0x00007f1fd1369ed8[0m
+  id: [34m[1m3[0m,
+  comment: [31m[1m"[0m[31mThe Godfather is a must to see[0m[31m[1m"[0m,
+  movie_id: [34m[1m5[0m,
+  list_id: [34m[1m1[0m,
+  created_at: Sun, 01 Sep 2024 13:17:37.190917000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 13:17:37.190917000 UTC +00:00[32m>[0m,
+ [32m#<Bookmark:0x00007f1fd1369e10[0m
+  id: [34m[1m4[0m,
+  comment: [31m[1m"[0m[31mHoping you will watch this[0m[31m[1m"[0m,
+  movie_id: [34m[1m15[0m,
+  list_id: [34m[1m2[0m,
+  created_at: Sun, 01 Sep 2024 13:19:05.341706000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 13:19:05.341706000 UTC +00:00[32m>[0m,
+ [32m#<Bookmark:0x00007f1fd1369d48[0m
+  id: [34m[1m5[0m,
+  comment: [31m[1m"[0m[31mBest thriller[0m[31m[1m"[0m,
+  movie_id: [34m[1m7[0m,
+  list_id: [34m[1m3[0m,
+  created_at: Sun, 01 Sep 2024 13:19:22.747791000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 13:19:22.747791000 UTC +00:00[32m>[0m,
+ [32m#<Bookmark:0x00007f1fd1369c80[0m
+  id: [34m[1m6[0m,
+  comment: [31m[1m"[0m[31mI enjoyed this movie![0m[31m[1m"[0m,
+  movie_id: [34m[1m1[0m,
+  list_id: [34m[1m3[0m,
+  created_at: Sun, 01 Sep 2024 14:02:43.238251000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 14:02:43.238251000 UTC +00:00[32m>[0m,
+ [32m#<Bookmark:0x00007f1fd1369bb8[0m
+  id: [34m[1m7[0m,
+  comment: [31m[1m"[0m[31mBreathtaking scenes![0m[31m[1m"[0m,
+  movie_id: [34m[1m3[0m,
+  list_id: [34m[1m2[0m,
+  created_at: Sun, 01 Sep 2024 14:02:43.244351000 UTC +00:00,
+  updated_at: Sun, 01 Sep 2024 14:02:43.244351000 UTC +00:00[32m>[0m]

@@ -1,0 +1,12 @@
+<p>app/views/lists/show.html.erb</p>
+
+<div class="container">
+  <h1><%= @list.name %></h1>
+
+<%= simple_form_for [@list, @bookmark] do |f| %>
+  <%= f.association :movie  %>
+  <%= f.input :comment %>
+  <%= f.submit %>
+<% end %>
+
+</div>
